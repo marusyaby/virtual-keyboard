@@ -220,3 +220,4 @@ document.addEventListener('keyup', evt => {
 window.addEventListener('DOMContentLoaded', () => {
   Keyboard.init();
 });
+
